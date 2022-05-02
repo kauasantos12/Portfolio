@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Kauã Santos
 
-You can use the [editor on GitHub](https://github.com/kauasantos12/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Sobre mim
+
+Olá, meu nome é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de crição de site com Marketing Digtal. Meu objetivo com esse portfolio é aprender mais sobre criação de sites.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
