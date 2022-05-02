@@ -1,10 +1,20 @@
 ## Kauã Santos
 
-### Sobre mim
+olá, meu é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de criação de sites com Marketing Digital. Meu objetivo com esse portfolio é saber mais sobre criação de sites.
 
-Olá, meu nome é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de crição de site com Marketing Digtal. Meu objetivo com esse portfolio é aprender mais sobre criação de sites.
+### Escolaridade
+Estudante do primeiro ano do ensino médio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meus cursos
+Criação de sites com Marketing Digital
+
+### Meus idiomas
+Espanhol
+
+### Meus hobbies
+Jogar jogos
+
+Sair com amigos
 
 ### Markdown
 
