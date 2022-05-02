@@ -12,9 +12,11 @@ Criação de sites com Marketing Digital
 Espanhol
 
 ### Meus hobbies
-Jogar jogos
+Jogar jogos, sair com amigos
 
-Sair com amigos
+**Negrito**
+
+_italico_
 
 ### Markdown
 
