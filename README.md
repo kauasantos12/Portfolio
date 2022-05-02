@@ -1,4 +1,4 @@
-## Kauã Santos
+##  `Kauã Santos`
 
 olá, meu é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de criação de sites com Marketing Digital. Meu objetivo com esse portfolio é saber mais sobre criação de sites.
 
