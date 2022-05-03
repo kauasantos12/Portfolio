@@ -1,6 +1,6 @@
 ##  `Kauã Santos`
 
-olá, meu é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de criação de sites com Marketing Digital. Meu objetivo com esse portfolio é saber mais sobre criação de sites.
+Olá, meu é Kauã Santos, sou estudante do primeiro ano do ensino médio, faço curso de espanhol e de criação de sites com Marketing Digital. Meu objetivo com esse portfolio é saber mais sobre criação de sites.
 
 ### Escolaridade
 Estudante do primeiro ano do ensino médio
@@ -17,6 +17,8 @@ Jogar jogos, sair com amigos
 **Negrito**
 
 _italico_
+
+[Instagram](https://www.instagram.com/kauaxtreme12/)
 
 ### Markdown
 
